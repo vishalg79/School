@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Cardinal Montessori School
 
-You can use the [editor on GitHub](https://github.com/vishalg79/School/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This website is built for students and parents so they can easily find school information, such as children's homework, calendar, and general announcements.
 
 ### Markdown
 
